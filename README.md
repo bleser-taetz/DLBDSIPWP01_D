@@ -1,5 +1,5 @@
 # DLBDSIPWP01_D
-Einführung in die Programmierung mit Python (Sprint-Material)
+## Einführung in die Programmierung mit Python (Sprint-Material)
 
 Dieses Repository enthält die in den Sprint-Sessions verwendeten Jupyter Notebooks. Die ersten sechs Sessions beziehen sich jeweils auf die Lektionen des Skripts. Die Notebooks werden während der Laufzeit des Sprints sukzessive hochgeladen.
 
